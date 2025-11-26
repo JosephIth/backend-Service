@@ -1,0 +1,15 @@
+com\backEnd\Service\model\Producto.class
+com\backEnd\Service\controller\AuthController.class
+com\backEnd\Service\model\Usuario.class
+com\backEnd\Service\repository\UsuarioRepository.class
+com\backEnd\Service\repository\CategoriaRepository.class
+com\backEnd\Service\DataInitializer.class
+com\backEnd\Service\service\ProductoService.class
+com\backEnd\Service\ServiceApplication.class
+com\backEnd\Service\controller\CategoriaController.class
+com\backEnd\Service\service\CategoriaService.class
+com\backEnd\Service\service\UsuarioService.class
+com\backEnd\Service\model\Categoria.class
+com\backEnd\Service\controller\ProductoController.class
+com\backEnd\Service\controller\UsuarioController.class
+com\backEnd\Service\repository\ProductoRepository.class
